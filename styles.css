@@ -171,7 +171,7 @@ html{
 }
 
 
-button{
+.btn{
     padding: 12px 16px;
     border: none;
     background-color: lightgreen;
@@ -186,7 +186,7 @@ button{
 
 }
 
-button:hover{
+.btn:hover{
     background: white;
     color: black;
 }
